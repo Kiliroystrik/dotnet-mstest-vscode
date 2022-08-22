@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "wdF8KvbhRnNgY0B2z5tvWFVEuu3tVEsdd8yDvWCpT6CCu8D8No9B2reVPq1akqOhNMzeR/8iPZHSxVN4Q6Ry/A==",
+  "success": true,
+  "projectFilePath": "d:\\Developpement\\.net\\Framework de test\\MsTest\\Game\\Game.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\borge\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\borge\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\borge\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\borge\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\borge\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\borge\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
